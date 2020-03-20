@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maskpic20200207-1</folder>
+	<filename>20200207_maskpic_257.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\maskpic20200207-1\20200207_maskpic_257.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>152</ymin>
+			<xmax>225</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
