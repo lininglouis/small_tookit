@@ -1,4 +1,5 @@
-# Some handy small tookit (code snippet) for daily use
+# Small Tookit (code snippet) for daily use
 
 * [x] image gps info extractor
-* [ ] voc reader
+* [x] VOC reader
+* [ ] VOC writer
