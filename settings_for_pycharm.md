@@ -2,7 +2,8 @@
  a) click "tools"-> "create desktop entry" -> the short cut for pycharm bin with be in /usr/local/bin/charm
  b) export charm to path
  ```
- export PATH=/usr/local/bin/charm:$PATH
+ export PATH=/usr/local/bin/charm:$PATH;
+ source ~/.bashrc
  ```
  c) go to directory of your project, and open it in pycharm
 ```
