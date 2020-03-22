@@ -10,12 +10,14 @@
 
 All Data Structure
 1. Raw Data
+  a. image folder
+  b. label folder
 2. YOLO data
-  a). image folder
-  b). label folder
-  c). class names
+  a. image folder(softlink)
+  b. label folder
+  c. class names
 3. COCO data
-  a). image folder
-  b). label folder
-  c). class names
+  a. image folder(softlink)
+  b. label folder
+  c. class names
 
