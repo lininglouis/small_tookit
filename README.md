@@ -5,3 +5,4 @@
 * [ ] VOC writer
 * [ ] VOC to Yolo
 * [ ] Yolo to VOC
+* [x] settings for pycharm
