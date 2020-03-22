@@ -8,7 +8,14 @@
 * [x] settings for pycharm
 
 
-all data SOP
-1. image folder
-2. label folder
-3. class names
+All Data Structure
+1. Raw Data
+2. YOLO data
+  a). image folder
+  b). label folder
+  c). class names
+3. COCO data
+  a). image folder
+  b). label folder
+  c). class names
+
